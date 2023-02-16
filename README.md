@@ -6,5 +6,5 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 
 
-#EXTINF:-1 ,local
-C:\Users\server1\Dropbox\PC\Desktop\ALMACEN VIVO TV\LISTA DE CANALES 1
+#EXTINF:-1 ,local,
+http://C:\Users\server1\Dropbox\PC\Desktop\ALMACEN VIVO TV\LISTA DE CANALES 1
