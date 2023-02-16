@@ -6,7 +6,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 
 
-#EXTINF:-1 ,local,
+#EXTINF:-1 ,local, group-title="LOCAL",LOCAL 15
 http://C:\Users\server1\Dropbox\PC\Desktop\ALMACEN VIVO TV\LISTA DE CANALES 1
 
-IPTV FORD
